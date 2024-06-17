@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "age": 28,
+        "gender": "female",
+        "image": "https://dummyjson.com/icon/emilys/128"
+    
+    },
+    {
+        "id": 2,
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "age": 35,
+        "gender": "male",
+        "image": "https://dummyjson.com/icon/michaelw/128"
+    
+    },
+    {
+        "id": 3,
+        "firstName": "Sophia",
+        "lastName": "Brown",
+        "age": 42,
+        "gender": "female",
+        "image": "https://dummyjson.com/icon/sophiab/128"
+    
+    },
+    {
+        "id": 4,
+        "firstName": "James",
+        "lastName": "Davis",
+        "age": 45,
+        "gender": "male",
+        "image": "https://dummyjson.com/icon/jamesd/128"
+    },
+    {
+        "id": 5,
+        "firstName": "Emma",
+        "lastName": "Miller",
+        "age": 30,
+        "gender": "female",
+        "image": "https://dummyjson.com/icon/emmaj/128"
+    },
+    {
+        "id": 6,
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "age": 22,
+        "gender": "female",
+        "image": "https://dummyjson.com/icon/oliviaw/128"
+
+    },
+    {
+        "id": 7,
+        "firstName": "Alexander",
+        "lastName": "Jones",
+        "age": 38,
+        "gender": "male",
+        "image": "https://dummyjson.com/icon/alexanderj/128"
+    },
+    {
+        "id": 8,
+        "firstName": "Ava",
+        "lastName": "Taylor",
+        "age": 27,
+        "gender": "female",
+        "image": "https://dummyjson.com/icon/avat/128"
+    },
+    {
+        "id": 9,
+        "firstName": "Ethan",
+        "lastName": "Martinez",
+        "age": 33,
+        "gender": "male",
+        "image": "https://dummyjson.com/icon/ethanm/128"
+    }]
+     

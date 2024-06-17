@@ -1,24 +1,30 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Childfn from './view/Childfn';
+import Classcomponent from './view/Classcomponent';
+import Parent from './view/Parent';
+import Parentfn from './view/Parentfn';
+import TextState from './view/TextState';
+import Form1 from './view/Form1';
+import Event1 from './view/Event1';
+import Lifecycle1 from './view/Lifecycle1';
+
+import Header from './view/Header'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    
+    {/* <Parentfn/>
+    <Parent/> */}
+    {/* <TextState/>
+    <Event1/> */}
+    {/* <Form1/>
+    <Lifecycle1/> */}
+    <Header/>
+   
     </div>
+   
   );
 }
 
